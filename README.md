@@ -6,7 +6,8 @@ ForSpecialEvents - MT5 Hotkey Trading Assistant
 ForSpecialEvents is a powerful Expert Advisor for MetaTrader 5 designed for manual, discretionary traders who require speed and precision, especially during high-volatility events like news releases, speeches, or market openings. It replaces slow mouse clicks with a fully customizable hotkey system for instant trade execution and management.
 
 
-![ezgif-62623612f02c69](https://github.com/user-attachments/assets/2f115218-2924-4c08-ab01-75e847df30df)
+
+https://github.com/user-attachments/assets/144ded40-8a3c-4d61-b27c-07e066dc9f5b
 
 
 
