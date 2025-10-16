@@ -5,6 +5,11 @@ ForSpecialEvents - MT5 Hotkey Trading Assistant
 
 ForSpecialEvents is a powerful Expert Advisor for MetaTrader 5 designed for manual, discretionary traders who require speed and precision, especially during high-volatility events like news releases, speeches, or market openings. It replaces slow mouse clicks with a fully customizable hotkey system for instant trade execution and management.
 
+
+
+https://github.com/user-attachments/assets/b62c1e42-43e6-47c1-9470-4cb2dd04e51a
+
+
 Key Features
 
 ⚡ Instant Order Execution with automatic SL and TP: Place market buy/sell orders with a single key press, bypassing the standard order window. Also, it instantly adds SL and TP with each click trade!
@@ -13,7 +18,10 @@ Key Features
 
 🛡️ One-Key "Panic" Close: Instantly close all open positions on the current chart's symbol with a single, customizable hotkey.
 
-📈 Dynamic Trailing Stop: Protect your profits with a robust trailing stop. Crucially, you can toggle it on or off in real-time with a hotkey without reloading the EA.
+📈 Dynamic Trailing Stop: Protect your profits with a robus
+
+
+t trailing stop. Crucially, you can toggle it on or off in real-time with a hotkey without reloading the EA.
 
 ⚖️ Collective Breakeven: With one key, move the Stop Loss of all open positions to the breakeven point of your most recently opened trade, locking in a risk-free position across the board.
 
